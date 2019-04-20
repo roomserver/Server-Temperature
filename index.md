@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Server Temperature: Range and Alerts
 
-You can use the [editor on GitHub](https://github.com/roomserver/temperature/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Fill out the following form to enter the acceptable range of temperature of the server and your GmailID (required) and/or your 10-digit phone number to receive mail/sms alerts.
+[Click here](https://forms.gle/bsrwrxBj8C72xdPc7) for the form
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Feedback
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/roomserver/temperature/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Feel free to write to us about any thoughts, concerns or problems:
+Feedback form: [Click here](https://forms.gle/uGPFk8bGEJAYdCpP9)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
