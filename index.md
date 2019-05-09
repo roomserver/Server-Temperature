@@ -8,3 +8,6 @@ Fill out the following form to enter the acceptable range of temperature of the 
 Feel free to write to us about any thoughts, concerns or problems:
 Feedback form: [Click here](https://forms.gle/uGPFk8bGEJAYdCpP9)
 
+### View the temperature right now
+
+[Click here]() to recieve the present temperature of the room temperatue by a email 
