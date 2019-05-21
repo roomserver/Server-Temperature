@@ -16,3 +16,7 @@ To resume receiving alerts(if previously suspended), send this mail:
 Feel free to write to us about any thoughts, concerns or problems:
 Feedback form: [Click here](https://forms.gle/uGPFk8bGEJAYdCpP9)
 
+### Support
+
+Check out the documentation: [Documentation](https://roomserver.github.io/Documentation/)
+
